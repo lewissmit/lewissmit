@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lewissmit
 - 👀 I’m interested in data 
-- 🌱 I’m currently learning R, JS, Ajax and, er, stuff
+- 🌱 I’m currently learning, JS, Ajax and, er, other stuff, I also reckon that people should be paid for the work they do https://www.cipd.org/uk/knowledge/employment-law/equal-pay/
 - 📫 How to reach me ... ?
 
 <!---
